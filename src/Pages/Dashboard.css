@@ -1,0 +1,12 @@
+.dashboard-container {
+    /* background-color: red; */
+    
+}
+
+.dashboard-container .serachBar{
+    background-color: green;
+    width: 20%;
+    margin-left: 70%;
+}
+
+
